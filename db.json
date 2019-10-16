@@ -1,10 +1,28 @@
 {
   "streams": [
     {
-      "title": "ASSOCIATION",
-      "description": "USER ASSOCIATION",
+      "title": "CHAMPIONS LEAGUE",
+      "description": "BARCELONA VS ATHLETICO DE MADRID",
+      "userId": "103959226945869120396",
+      "id": 1
+    },
+    {
+      "title": "LA LIGA",
+      "description": "BARCELONA VS REAL MADRID",
+      "userId": "103959226945869120396",
+      "id": 2
+    },
+    {
+      "title": "EPL",
+      "description": "CHELSEA VS MAN CITY",
       "userId": "103959226945869120396",
       "id": 3
+    },
+    {
+      "title": "SERIA A",
+      "description": "JUVENTUS VS INTER MILAN",
+      "userId": "103959226945869120396",
+      "id": 4
     }
   ]
 }
